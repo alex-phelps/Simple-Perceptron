@@ -1,0 +1,8 @@
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\bin\Debug\training.csv
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe.config
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.pdb
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.exe
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.pdb
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Projects\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.csproj.CoreCompileInputs.cache
